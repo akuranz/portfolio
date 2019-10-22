@@ -108,6 +108,7 @@ li a {
     margin: 25px auto;
     padding: 0px 25px 25px 25px;
     background-color: #fff;
+    border: 1px solid #ddd;
  }
 
 .headshot{ 
